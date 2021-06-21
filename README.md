@@ -1,2 +1,3 @@
-# Group-Info
-General information on the PDX CS Rust Embedded Study Group
+# PDX CS Embedded Rust Study Group
+
+This is a group organized at Portland State University in Portland, Oregon for the study of embedded Rust programming. Please see the wiki here for further information.
